@@ -1,0 +1,30 @@
+.ship-container {
+  display: flex;
+  justify-content: center;
+  border: 1px solid black;
+  width: 300px;
+  background-color: rgb(8, 102, 92);
+  color: white;
+}
+
+body {
+  text-align: left;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+}
+
+h1 {
+  background-color: black;
+    margin: 0px;
+    padding: 0px;
+    width:100%;
+    text-align:center;
+    position:fixed;
+    z-index:99;
+    left:0px;
+    top:0px;
+  color: white;
+}
+
