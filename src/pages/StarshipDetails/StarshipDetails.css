@@ -7,6 +7,10 @@
   color: white;
 }
 
+.card-container {
+  display: inline-block;
+}
+
 body {
   text-align: left;
   align-items: center;

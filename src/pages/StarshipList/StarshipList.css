@@ -1,4 +1,4 @@
-a {
+#card-container {
   justify-content: center;
   border: 1px solid black;
   width: 300px;
@@ -7,11 +7,6 @@ a {
   height: 100px;
   position: relative;
   margin: 10px;
-  display: inline-flex;
-  display: flex;
+  display: inline-block;
 }
 
-#card-container {
-  display: flex;
-  justify-content: center;
-}
